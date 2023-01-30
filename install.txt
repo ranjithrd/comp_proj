@@ -1,0 +1,4 @@
+PACKAGES NEEDED:
+
+tk (installed by default)
+sqlite3 (installed by default)
